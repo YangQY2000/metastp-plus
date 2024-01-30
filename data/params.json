@@ -1,0 +1,9 @@
+{
+  "preprocessing": {
+    "max_speed": 15,
+    "accept_geocoding_shift":  70,
+    "accept_time_delay": 300,
+    "dist_thresh": 20,
+    "min_stay_time": 30
+  }
+}
